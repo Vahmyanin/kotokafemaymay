@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+}
+
+img{
+   width:850px    
+}
+
+.sup{
+    width: 400px;
+}
+
+table{
+    border: solid 1px black;
+    border-collaps:collaps ;
+    margin-top:30px
+}
+
+td{
+    border: solid 1px black;
+    color: blue;
+}
